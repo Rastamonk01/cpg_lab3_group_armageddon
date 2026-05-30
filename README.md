@@ -173,7 +173,7 @@ git push
 1. **Vince Woods**
 2. **Ali Zachary**
 3. **Cassiem Davids**
-4. **Mister_Alex = Aleki Mdogo (fb)**
+4. **Alex Kigotho**
 5. **Ernie**
 6. **Dante Dorsey**
 7. **Tyler Tedson**
