@@ -1,0 +1,36 @@
+Enter an upper limit to generate primes: Invalid limit provided.
+Enter an upper limit to generate primes: Primes up to 100 : [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+Number of primes: 25
+Average of primes: 42.4
+Primes list with 1 included: [1, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97]
+Wrong average due to logic error: 42.44
+Mean: 42.4 Variance: 833.08
+Compare '3.0' and '3': Equal
+Compare '5.5' and '4': A greater
+Countdown: 10
+Countdown: 9
+Countdown: 8
+Countdown: 7
+Countdown: 6
+Countdown: 5
+Countdown: 4
+Countdown: 3
+Countdown: 2
+Countdown: 1
+Counter is 0
+Counter is 1
+Counter reached 2
+Counter is 2
+Result of bad function: 2
+1 is odd
+2 is even
+3 is odd
+4 is even
+5 is odd
+Nested 0 0
+Nested 0 1
+Nested 1 0
+Nested 1 1
+Nested 2 0
+Nested 2 1
+Test string evaluates to true
