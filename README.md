@@ -17,11 +17,11 @@ Imagine you are a junior engineer who has just been handed a repository of broke
 
 This lab covers four files across three languages, each with a defined intended output and multiple embedded bugs. The workflow runs through 6 steps:
 
-1. Forks the provided GitHub repository and clones it locally into the `cpg_lab3_group` working directory
+1. Fork the provided GitHub repository and clone it locally into the `cpg_lab3_group` working directory
 2. Attempts to run each of the four files and records the first error encountered
 3. Reads error messages and traces them back to the responsible line of code
 4. Applies targeted, incremental fixes - one error at a time - without rewriting files entirely
-5. Re-runs each file after each fix to confirm the change had the intended effect
+5. Re-run each file after each fix to confirm the change had the intended effect
 6. Documents every initial error, diagnosis step, code change, and final successful execution in `DEBUGGING.md`
 
 ---
@@ -82,7 +82,7 @@ Presents a form where the user enters a birth year; the page computes their age 
 
 ### Step 1: Prepare the Project Repository
 
-Create or open the GitHub repository that will be used to submit the Lab 3.
+Create or open the GitHub repository that will be used to submit Lab 3.
 
 ```bash
 git clone <forked-repository-url>
@@ -97,9 +97,9 @@ Add the required project files to the repository. (if necessary)
 touch index.html python_app.py script.js script.sh
 ```
 
-This is generate a blank version of `index.html`, `python_app.py`, `script.js`, and `script.sh` that can be filled in with the required code for the Lab 3.
+This generates a blank version of `index.html`, `python_app.py`, `script.js`, and `script.sh` that can be filled in with the required code for Lab 3.
 
-> Confirm the content from GitHub is same as the perspective files if not you will have to copy in their files.
+> Confirm the content from GitHub is the same as the perspective files; if not, you will have to copy in their files.
 ---
 
 ## **How to Run (After Fixes Applied)**
@@ -114,7 +114,7 @@ python python_app.py
 
 # JavaScript - bubble sort and statistics (requires Node.js)
 node script.js 
-# OR Run from a console on a browser in the Developer tools section as shown on images.
+# OR Run from a console on a browser in the Developer tools section, as shown in the images.
 
 # Bash - sum/average/min/max calculator
 ./scripts/script.sh 3 7 2 9 5
@@ -139,11 +139,11 @@ node script.js
 
 | Screenshot               | Description                                                              |
 |--------------------------|--------------------------------------------------------------------------|
-| `01_git_clone_proof.jpg` | VS Code terminal showing `git clone` of orginal github into local folder |
+| `01_git_clone_proof.jpg` | VS Code terminal showing `git clone` of original GitHub into local folder|
 | `02_script_js_output.png`| Results of script file execution on browser                              |
 | `03_script_js_output.png`| Results of script file execution on browser                              |
 | `04_script_js_output.png`| Results of script file execution on browser                              |
-| `05_html_output.jpg`     | Results of html file execution on browser                                |
+| `05_html_output.jpg`     | Results of HTML file execution on browser                                |
 | `06_python_output.jpg`   | Results of python file execution version                                 |
 
 ---
@@ -170,10 +170,10 @@ git push
 
 ## **Collaborators/Authors**
 
-1. **Vince**
-2. **Ali**
+1. **Vince Woods**
+2. **Ali Zachary**
 3. **Cassiem Davids**
-4. **Mister_A = Alex**
+4. **Mister_Alex = Aleki Mdogo (fb)**
 5. **Ernie**
 6. **Dante Dorsey**
 7. **Tyler Tedson**
