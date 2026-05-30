@@ -174,6 +174,6 @@ git push
 2. **Ali Zachary**
 3. **Cassiem Davids**
 4. **Alex Kigotho**
-5. **Ernie**
+5. **Ernie Morris**
 6. **Dante Dorsey**
 7. **Tyler Tedson**
